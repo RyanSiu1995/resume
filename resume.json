@@ -7,24 +7,20 @@
     "email": "findme@ryansiulw.com",
     "phone": "(+852) 6149-8491",
     "url": "http://www.ryansiulw.com",
-    "summary": "",
+    "summary": "A passion SRE aiming at bringing better place for all engineers",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Hong Kong",
-      "countryCode": "HK",
-      "region": "Tung Chung"
+      "city": "Hong Kong"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "ryansiu1995",
+        "url": "https://www.linkedin.com/in/ryansiu1995/"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "GitHub",
+        "username": "ryansiu1995",
+        "url": "https://github.com/ryansiu1995/"
       }
     ]
   },
@@ -35,8 +31,8 @@
       "position": "Site Reliability Engineer IV",
       "url": "http://www.cloverhealth.com",
       "startDate": "2021-08",
-      "summary": "",
-      "highlights": [ ]
+      "summary": "Developing the culture of DevSecOps and IaC",
+      "highlights": []
     },
     {
       "name": "Clover Health",
@@ -45,8 +41,25 @@
       "url": "http://www.cloverhealth.com",
       "startDate": "2021-07",
       "endDate": "2019-07",
-      "summary": "",
-      "highlights": []
+      "summary": "Revamped the infrastructure and SDLC in Clover",
+      "highlights": [
+        "Migrated the infrastructure from simple container runtime to Kubernetes",
+        "Rebuilt CI/CD pipeline"
+      ]
+    },
+    {
+      "name": "TFI Digital Media",
+      "location": "Hong Kong",
+      "position": "Senior Programmer",
+      "url": "http://www.cloverhealth.com",
+      "startDate": "2019-06",
+      "endDate": "2018-07",
+      "summary": "A full stack developer focusing on cloud technology",
+      "highlights": [
+        "Built video encoder control plane with Java and Elixir",
+        "Customized CentOS OS image for rack server",
+        "Implemented the infrastructure with Kubernetes and Docker Swarm"
+      ]
     }
   ],
   "education": [
@@ -54,16 +67,23 @@
       "institution": "Georgia Institute of Technology",
       "url": "https://www.gatech.edu/",
       "area": "Computer Science - Computing Systems",
-      "studyType": "Master",
+      "studyType": "Master of Science",
       "startDate": "2021-08",
-      "score": "",
       "courses": [
         "CS6290 High-Performance Computer Architecture",
         "CS6340 Software Analysis and Testing"
       ]
+    },
+    {
+      "institution": "The Chinese University of Hong Kong",
+      "url": "https://www.gatech.edu/",
+      "area": "Physics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018",
+      "endDate": "2013"
     }
   ],
-  "skills": [ ],
+  "skills": [],
   "languages": [
     {
       "language": "Cantonese",
@@ -86,12 +106,32 @@
       "fluency": "Beginner"
     }
   ],
-  "interests": [ ],
-  "references": [ ],
-  "projects": [ ],
+  "certificates": [
+    {
+      "name": "Certified Kubernetes Security Specialist (CKS)",
+      "date": "2021-03",
+      "url": "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/029d6a7d-9067-4dc8-b0de-de9c5e945cf3-siu-long-wa-certified-kubernetes-security-specialist-cks-certificate.pdf",
+      "issuer": "The Linux Foundation"
+    },
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "date": "2021-01",
+      "url": "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/029d6a7d-9067-4dc8-b0de-de9c5e945cf3-siu-long-wa-certified-kubernetes-administrator-cka-certificate.pdf",
+      "issuer": "The Linux Foundation"
+    },
+    {
+      "name": "Certified Kubernetes Application Developer (CKAD)",
+      "date": "2020-12",
+      "url": "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/029d6a7d-9067-4dc8-b0de-de9c5e945cf3-siu-long-wa-certified-kubernetes-application-developer-ckad-certificate.pdf",
+      "issuer": "The Linux Foundation"
+    }
+  ],
+  "interests": [],
+  "projects": [],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
+    "theme": "elegant",
     "lastModified": "2017-12-24T15:53:00"
   }
 }
