@@ -1,0 +1,97 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ryan Siu",
+    "label": "Site Reliability Engineer",
+    "image": "",
+    "email": "findme@ryansiulw.com",
+    "phone": "(+852) 6149-8491",
+    "url": "http://www.ryansiulw.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hong Kong",
+      "countryCode": "HK",
+      "region": "Tung Chung"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "neutralthoughts",
+        "url": ""
+      },
+      {
+        "network": "SoundCloud",
+        "username": "dandymusicnl",
+        "url": "https://soundcloud.example.com/dandymusicnl"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Clover Health",
+      "location": "Hong Kong",
+      "position": "Site Reliability Engineer IV",
+      "url": "http://www.cloverhealth.com",
+      "startDate": "2021-08",
+      "summary": "",
+      "highlights": [ ]
+    },
+    {
+      "name": "Clover Health",
+      "location": "Hong Kong",
+      "position": "Site Reliability Engineer III",
+      "url": "http://www.cloverhealth.com",
+      "startDate": "2021-07",
+      "endDate": "2019-07",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "url": "https://www.gatech.edu/",
+      "area": "Computer Science - Computing Systems",
+      "studyType": "Master",
+      "startDate": "2021-08",
+      "score": "",
+      "courses": [
+        "CS6290 High-Performance Computer Architecture",
+        "CS6340 Software Analysis and Testing"
+      ]
+    }
+  ],
+  "skills": [ ],
+  "languages": [
+    {
+      "language": "Cantonese",
+      "fluency": "Native"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [ ],
+  "references": [ ],
+  "projects": [ ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
