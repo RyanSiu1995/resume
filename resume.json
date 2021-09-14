@@ -76,14 +76,37 @@
     },
     {
       "institution": "The Chinese University of Hong Kong",
-      "url": "https://www.gatech.edu/",
+      "url": "https://www.cuhk.edu/",
       "area": "Physics",
       "studyType": "Bachelor of Science",
       "startDate": "2018",
       "endDate": "2013"
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Cloud Technology",
+      "keywords": [
+        "Google Cloud Platform",
+        "Amazon Web Services",
+        "Kubernetes",
+        "Docker",
+        "Containerd",
+        "Docker Compose",
+        "Infrastructure As Code",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Test Driven Development",
+        "Scrum Development",
+        "Chaos Engineering",
+        "Pair Programming"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "Cantonese",
@@ -126,7 +149,20 @@
       "issuer": "The Linux Foundation"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Functional Programming",
+      "keywords": [
+        "Elixir"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "keywords": [
+        "Operator Development"
+      ]
+    }
+  ],
   "projects": [],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
