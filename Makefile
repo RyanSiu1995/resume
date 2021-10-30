@@ -1,11 +1,11 @@
 serve:
-	@resume serve --theme elegant
+	@resume serve --theme kendall
 
 setup:
 	@npm install
 
 build:
-	@resume export --theme elegant index.html
+	@resume export --theme kendall index.html
 
 build_pdf:
-	@resume export --theme elegant --format pdf index.pdf
+	@resume export --theme kendall --format pdf index.pdf
