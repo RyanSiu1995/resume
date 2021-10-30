@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-even": "^0.12.0",
+    "puppeteer": "^10.2.0",
+    "puppeteer-firefox": "^0.5.1",
+    "resume-cli": "^3.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanSiu1995/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanSiu1995/resume/issues"
+  },
+  "homepage": "https://github.com/RyanSiu1995/resume#readme"
+}
