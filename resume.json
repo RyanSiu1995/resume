@@ -32,7 +32,11 @@
       "url": "http://www.cloverhealth.com",
       "startDate": "2021-08",
       "summary": "Developing the culture of DevSecOps and IaC",
-      "highlights": []
+      "highlights": [
+        "Led the team to bring the high reliable observability system",
+        "Tuning the system to support over 300k membership",
+        "Reduced the CI pipeline building time over 50%"
+      ]
     },
     {
       "name": "Clover Health",
@@ -43,7 +47,8 @@
       "endDate": "2019-07",
       "summary": "Revamped the infrastructure and SDLC in Clover",
       "highlights": [
-        "Migrated the infrastructure from simple container runtime to Kubernetes",
+        "Migrated the infrastructure from simple container runtime to Kubernetes within 3 months",
+        "Implemented practice to fillful the HIPAA compliance",
         "Rebuilt CI/CD pipeline"
       ]
     },
@@ -56,8 +61,8 @@
       "endDate": "2019-06",
       "summary": "A full stack developer focusing on cloud technology",
       "highlights": [
-        "Built video encoder control plane with Java and Elixir",
-        "Customized CentOS OS image for rack server",
+        "Built video encoder control plane with Java and Elixir to serve over 10k concurrent users",
+        "Customized and minimized CentOS OS image for rack server",
         "Implemented the infrastructure with Kubernetes and Docker Swarm"
       ]
     }
@@ -66,7 +71,7 @@
     {
       "institution": "Georgia Institute of Technology",
       "url": "https://www.gatech.edu/",
-      "area": "Computer Science - Computing Systems",
+      "area": "Computer Science - Computing Systems Stream",
       "studyType": "Master of Science",
       "startDate": "2021-08",
       "courses": [
